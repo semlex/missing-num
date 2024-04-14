@@ -1,0 +1,14 @@
+{
+  "name": "missing-num",
+  "version": "1.0.0",
+  "description": "function that finds missing number in array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Semenov Alexey <alexpskov60@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
